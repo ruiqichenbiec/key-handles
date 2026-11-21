@@ -4,7 +4,7 @@
 
 > 现在是原型，已经在 Windows 上实测跑通（范围见下面"实测结果"）。想第一时间用上，点个 star，进度都在这里更新。
 
-<!-- 演示视频发布后，把链接放在这里 -->
+演示视频（B站）：[API key想直接贴给 AI？我做了个 Claude Code 插件替你挡住](https://www.bilibili.com/video/BV1xJyiz3E58/)
 
 ## 它解决什么问题
 
